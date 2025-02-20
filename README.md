@@ -65,7 +65,7 @@ This project aims to explore and analyze the IMDB Movies dataset to uncover tren
 1. Clone this repository:
 
 ```bash
-  git clone https://github.com/ChimaySingole/imdb-movie-analysis.git
+  git clone https://github.com/ChinmaySingole/IMDB-Movie-Analysis.git
 ```
 
 2. Install dependencies:
